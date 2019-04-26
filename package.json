@@ -1,0 +1,28 @@
+{
+  "name": "mongo-scrapper",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrayayay/mongo-scrapper.git"
+  },
+  "keywords": [
+    "mongo",
+    "express",
+    "express-handlebars",
+    "mongoose",
+    "cherrio",
+    "axios"
+  ],
+  "author": "Andraya Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrayayay/mongo-scrapper/issues"
+  },
+  "homepage": "https://github.com/andrayayay/mongo-scrapper#readme"
+}
